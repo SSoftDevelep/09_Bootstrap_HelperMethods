@@ -13,5 +13,10 @@ namespace _09_Bootstrap_HelperMethods.Controllers
         {
             return View();
         }
+
+        public ActionResult HomePage2()
+        {
+            return View();
+        }
     }
 }
